@@ -1,8 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
+import PortfolioContainer from './components/PortfolioContainer'
 
 const App = () => 
-  <div><p>Hello!</p></div>
+  <PortfolioContainer />;
 
 
 export default App;
